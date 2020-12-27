@@ -15,7 +15,7 @@
             "name": "WETH",
             "symbol": "WETH",
             "decimals": 18,
-            "logoUri": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
+            "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
         },
         {
             "chainId": 1,
@@ -23,7 +23,7 @@
             "name": "Chi Gastoken",
             "symbol": "CHI",
             "decimals": 0,
-            "logoUri": "https://assets.coingecko.com/coins/images/11583/thumb/chi.png?1591331659"
+            "logoURI": "https://assets.coingecko.com/coins/images/11583/thumb/chi.png?1591331659"
         },
         {
             "chainId": 1,
@@ -31,7 +31,7 @@
             "name": "Bancor Network Toke",
             "symbol": "BNT",
             "decimals": 18,
-            "logoUri": "https://assets.coingecko.com/coins/images/736/thumb/bancor.png?1547034477"
+            "logoURI": "https://assets.coingecko.com/coins/images/736/thumb/bancor.png?1547034477"
         },
         {
             "chainId": 1,
@@ -39,7 +39,7 @@
             "name": "Ampleforth",
             "symbol": "AMPL",
             "decimals": 9,
-            "logoUri": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"
+            "logoURI": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"
         }
     ]
 }
