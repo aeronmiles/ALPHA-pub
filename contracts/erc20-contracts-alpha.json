@@ -18,6 +18,30 @@
             "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
         },
         {
+            "name": "Aave Interest bearing DAI",
+            "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+            "symbol": "aDAI",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
+        },
+        {
+            "name": "Amon",
+            "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+            "symbol": "AMN",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
+        },
+        {
+            "name": "Ampleforth",
+            "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+            "symbol": "AMPL",
+            "decimals": 9,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
             "name": "Chi Gastoken",
