@@ -18,52 +18,52 @@
             "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
         },
         {
-            "name": "Aave Interest bearing DAI",
-            "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
-            "symbol": "aDAI",
+            "chainId": 1,
+            "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+            "name": "Render Token",
+            "symbol": "RNDR",
             "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/11636/thumb/uTDd98ZN_400x400.jpg?1592200150"
         },
         {
-            "name": "Amon",
-            "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
-            "symbol": "AMN",
+            "chainId": 1,
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai",
+            "symbol": "DAI",
             "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
-        },
-        {
-            "name": "Ampleforth",
-            "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-            "symbol": "AMPL",
-            "decimals": 9,
-            "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
         },
         {
             "chainId": 1,
-            "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
-            "name": "Chi Gastoken",
-            "symbol": "CHI",
-            "decimals": 0,
-            "logoURI": "https://assets.coingecko.com/coins/images/11583/thumb/chi.png?1591331659"
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
         },
         {
             "chainId": 1,
-            "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
-            "name": "Bancor Network Token",
-            "symbol": "BNT",
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "chainId": 1,
+            "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+            "name": "Empty Set Dollar",
+            "symbol": "ESD",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/736/thumb/bancor.png?1547034477"
+            "logoURI": "https://assets.coingecko.com/coins/images/12440/thumb/esd_logo_circle.png?1603676421"
         },
         {
             "chainId": 1,
-            "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-            "name": "Ampleforth",
-            "symbol": "AMPL",
-            "decimals": 9,
-            "logoURI": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"
+            "address": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+            "name": "Dynamic Set Dollar",
+            "symbol": "DSD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13249/thumb/DSD.jpg?1606713628"
         }
     ]
 }
