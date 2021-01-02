@@ -5,6 +5,8 @@ authors = ["Aeron"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+alpha-lib = { path="../../lib/alpha-lib"}
+
+[build-dependencies]
 alpha-lib = { path="../../lib/alpha-lib"}
