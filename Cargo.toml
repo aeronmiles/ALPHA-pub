@@ -6,7 +6,7 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
-alpha-lib = { path="../../lib/alpha-lib"}
+alpha-w0lf = { path="../../alpha-w0lf"}
 
 [build-dependencies]
-alpha-lib = { path="../../lib/alpha-lib"}
+alpha-w0lf = { path="../../alpha-w0lf"}
